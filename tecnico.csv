@@ -1,0 +1,6 @@
+id_usuario,nome,email,telefone,departamento,cargo,status
+1,Gabriel Ferreira,gabriel.ferreira@email.com,11984561234,Financeiro,Assistente,Ativo
+2,Larissa Almeida,larissa.almeida@email.com,11993456781,Recursos Humanos,Analista,Ativo
+3,Bruno Carvalho,bruno.carvalho@email.com,11992345678,Marketing,Supervisor,Ativo
+4,Camila Rodrigues,camila.rodrigues@email.com,11991234567,Administrativo,Coordenadora,Ativo
+5,Matheus Gomes,matheus.gomes@email.com,11990123456,Comercial,Vendedor,Inativo

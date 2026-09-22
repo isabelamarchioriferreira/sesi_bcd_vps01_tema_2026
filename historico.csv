@@ -1,0 +1,6 @@
+id_historico,id_chamado,id_usuario,data_hora,descricao,tipo
+1,1,1,2026-09-14 08:30:00,Chamado registrado e encaminhado para análise da equipe técnica.,Atualização
+2,1,1,2026-09-14 09:40:00,Identificado defeito no cabo de vídeo do monitor.,Diagnóstico
+3,1,1,2026-09-14 10:20:00,Cabo substituído e equipamento funcionando normalmente.,Solução
+4,2,2,2026-09-15 10:00:00,Equipe iniciou a análise do erro apresentado no sistema.,Atualização
+5,3,3,2026-09-16 15:00:00,Configuração da rede corrigida e conexão restabelecida.,Solução

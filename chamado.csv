@@ -1,0 +1,6 @@
+id_chamado,titulo,descricao,data_abertura,data_fechamento,status,prioridade,id_usuario,id_categoria,id_tecnico
+1,Monitor sem imagem,O monitor do setor financeiro permanece com a tela preta.,2026-09-14 08:10:00,2026-09-14 10:20:00,Fechado,Alta,1,1,1
+2,Erro ao acessar sistema,O sistema de gestão apresenta erro durante o login.,2026-09-15 09:40:00,,Em andamento,Média,2,2,2
+3,Internet instável,A conexão de internet está oscilando em vários setores.,2026-09-16 11:15:00,2026-09-16 15:00:00,Fechado,Alta,3,3,3
+4,Acesso bloqueado,Funcionário não consegue acessar o portal interno da empresa.,2026-09-17 14:30:00,,Aberto,Média,4,4,4
+5,Notebook lento,O notebook demora para iniciar e abrir os programas utilizados.,2026-09-18 16:20:00,,Em andamento,Baixa,5,1,1
